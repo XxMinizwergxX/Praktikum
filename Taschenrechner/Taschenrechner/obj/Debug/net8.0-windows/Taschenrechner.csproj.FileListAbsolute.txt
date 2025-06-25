@@ -1,0 +1,17 @@
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net8.0-windows\Taschenrechner.exe
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net8.0-windows\Taschenrechner.deps.json
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net8.0-windows\Taschenrechner.runtimeconfig.json
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net8.0-windows\Taschenrechner.dll
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net8.0-windows\Taschenrechner.pdb
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.AssemblyInfoInputs.cache
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.AssemblyInfo.cs
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.dll
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\refint\Taschenrechner.dll
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.pdb
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.genruntimeconfig.cache
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\ref\Taschenrechner.dll
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.Taschenrechner.resources
+C:\Users\Start\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0-windows\Taschenrechner.Properties.Resources.resources
